@@ -5,13 +5,13 @@ Network/Security Engineer focused on secure runtime design, container internals,
 ## About Me
 - Building a zero-trust oriented container runtime ecosystem.
 - Interested in runtime isolation, secure-by-default architecture, and practical DevSecOps.
-- Working mainly with Go and low-level systems components.
+- Working mainly with Go, C and low-level systems components.
 
 ## Featured Projects
 - [Raind](https://github.com/shizuku198411/Raind) - Zero Trust Oriented Container Runtime.
 - [Condenser](https://github.com/shizuku198411/Condenser) - High-level container runtime layer for Raind.
 - [Droplet](https://github.com/shizuku198411/Droplet) - Low-level container runtime for Raind.
-- [Webhook-Collector](https://github.com/shizuku198411/Webhook-Collector) - GitHub webhook collection and processing service.
+- [AquaCore](https://github.com/shizuku198411/Aqua-Core) - Micro Kernel for RISC-V 32bit.
 
 ## Stats
 <table>
