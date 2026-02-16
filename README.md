@@ -9,8 +9,6 @@ Network/Security Engineer focused on secure runtime design, container internals,
 
 ## Featured Projects
 - [Raind](https://github.com/shizuku198411/Raind) - Zero Trust Oriented Container Runtime.
-- [Condenser](https://github.com/shizuku198411/Condenser) - High-level container runtime layer for Raind.
-- [Droplet](https://github.com/shizuku198411/Droplet) - Low-level container runtime for Raind.
 - [AquaCore](https://github.com/shizuku198411/Aqua-Core) - Micro Kernel for RISC-V 32bit.
 
 ## Stats
