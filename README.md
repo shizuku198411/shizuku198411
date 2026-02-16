@@ -1,4 +1,4 @@
-# Hi there, I'm Shizuku
+# Hi there
 
 Network/Security Engineer focused on secure runtime design, container internals, and developer tooling.
 
