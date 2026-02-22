@@ -10,6 +10,7 @@ Network/Security Engineer focused on secure runtime design, container internals,
 ## Featured Projects
 - [Raind](https://github.com/shizuku198411/Raind) - Zero Trust Oriented Container Runtime.
 - [AquaCore](https://github.com/shizuku198411/Aqua-Core) - Micro Kernel for RISC-V 32bit.
+- [SessionAttested](https://github.com/shizuku198411/SessionAttested) - Verify development-session auditing with host-side eBPF, policy checks, commit binding, and signed attestations.
 
 ## Stats
 <table>
