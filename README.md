@@ -13,16 +13,7 @@ Network/Security Engineer focused on secure runtime design, container internals,
 - [SessionAttested](https://github.com/shizuku198411/SessionAttested) - Verify development-session auditing with host-side eBPF, policy checks, commit binding, and signed attestations.
 
 ## Stats
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shizuku198411&theme=github_dark&exclude=makefile,shell,html" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shizuku198411&theme=github_dark&utcOffset=9" alt="Productive Time" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shizuku198411&theme=github_dark&exclude=makefile,shell,html" alt="Top Languages" />
 
 ## Current Focus
 - Hardening container runtime components.
