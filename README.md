@@ -1,8 +1,4 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=shizuku198411" />
-</div>
-
-# Hi there, I'm Shizuku 👋
+# Hi there 👋
 
 I'm a **Network / Security Engineer** interested in systems where networking,
 security, and low-level runtime internals meet.
