@@ -23,6 +23,18 @@ I enjoy building and exploring things around:
 
 <br>
 
+## Main Languages
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,nim,c,python,vue,typescript,shell" />
+
+<br>
+
+## Infrastructure / Virtualization
+
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=docker,kubernetes,linux" />
+
+<br>
+
 ## Featured Projects
 
 ### 🧠 Rk-C
@@ -63,18 +75,6 @@ Keywords: `container-runtime`, `zero-trust`, `network-policy`, `runtime-security
 - Web UI and CLI for container/resource operations
 
 Repository: https://github.com/shizuku198411/Raind
-
-<br>
-
-## Main Languages
-
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,nim,c,python,vue,typescript,shell" />
-
-<br>
-
-## Infrastructure / Virtualization
-
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=docker,kubernetes,linux" />
 
 <br>
 
