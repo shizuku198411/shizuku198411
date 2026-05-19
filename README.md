@@ -35,49 +35,6 @@ I enjoy building and exploring things around:
 
 <br>
 
-## Featured Projects
-
-### 🧠 Rk-C
-**Experimental microkernel-style OS for RISC-V 64-bit**
-
-Rk-C is a hobby operating system project for exploring kernel design,
-microkernel architecture, and low-level system programming on RISC-V.
-
-It targets QEMU's RISC-V `virt` machine and boots through OpenSBI.
-The kernel is implemented mainly in Nim, with a focus on learning how
-modern operating system components work from the ground up.
-
-Keywords: `kernel`, `microkernel`, `riscv64`, `nim`, `osdev`, `qemu`, `opensbi`
-
-- RISC-V 64-bit kernel running in S-mode
-- OpenSBI-based boot flow
-- Sv39 virtual memory and per-process address spaces
-- Timer-driven preemptive scheduling
-- Userland program loading with a custom executable format
-- IPC-based userland services
-- Shell features such as pipes, redirection, background apps, and syscall tracing
-
-Repository: https://github.com/shizuku198411/Rk-C
-
-<br>
-
-### 🛰️ Raind
-**Zero Trust Oriented Container Runtime**
-
-A container runtime project focused on controlling and visualizing container networking
-at the runtime layer.
-
-Keywords: `container-runtime`, `zero-trust`, `network-policy`, `runtime-security`, `Go`, `Vue`
-
-- Runtime-level network policy enforcement
-- Traffic visibility for DNS / audit / network logs
-- OCI-oriented low-level runtime components
-- Web UI and CLI for container/resource operations
-
-Repository: https://github.com/shizuku198411/Raind
-
-<br>
-
 ## Security Interests
 
 - Network security
