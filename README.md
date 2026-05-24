@@ -1,6 +1,6 @@
 ## Main Languages
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,nim,c,python,vue,typescript,shell" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,nim,c,python,vue" />
 
 ## Infrastructure / Virtualization
 
