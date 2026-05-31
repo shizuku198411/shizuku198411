@@ -8,3 +8,4 @@
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/seiji-matsuoka-028b503ab/
+- Zenn: https://zenn.dev/shizuku1984
