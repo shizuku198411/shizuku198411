@@ -1,6 +1,10 @@
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shizuku198411&theme=holi&rank_icon=percentile)
+
 ## Main Languages
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,nim,c,python,vue" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shizuku198411&stats_format=bytes)
 
 ## Infrastructure / Virtualization
 
