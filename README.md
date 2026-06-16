@@ -1,5 +1,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shizuku198411&theme=holi&rank_icon=percentile)
 
+![Contribution stats](https://github-contribution-card.vercel.app/api?username=shizuku198411&theme=holi)
+
 ## Main Languages
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,nim,c,python,vue" />
