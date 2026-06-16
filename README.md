@@ -1,12 +1,12 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shizuku198411&theme=holi&rank_icon=percentile)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shizuku198411&theme=transparent&rank_icon=percentile)
 
-![Contribution stats](https://github-contribution-card.vercel.app/api?username=shizuku198411&theme=holi)
+![Contribution stats](https://github-contribution-card.vercel.app/api?username=shizuku198411&theme=transparent)
 
 ## Main Languages
 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,nim,c,python,vue" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shizuku198411&theme=holi&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shizuku198411&theme=transparent&layout=compact)
 
 ## Infrastructure / Virtualization
 
