@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shizuku198411&theme=holi&rank_icon=percentile)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shizuku198411&theme=holi)
 
 ## Main Languages
 
